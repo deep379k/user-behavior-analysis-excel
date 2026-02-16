@@ -1,63 +1,75 @@
-📊 Sharpener User Analysis (Excel Project)
-📌 Project Overview
+📊 Sharpener User Analysis (Excel Data Analytics Project)
+---
+📌 **Project Overview**
 
-This project analyzes Sharpener user data to uncover trends in:
+This project focuses on analyzing Sharpener user data to uncover meaningful patterns in user behavior, regional performance, payments, and engagement metrics. Using Microsoft Excel, raw datasets were transformed into structured insights to support data-driven business decisions.
 
-User registrations
+The analysis demonstrates practical data analytics skills including data cleaning, transformation, visualization, and insight generation.
 
-Streak counts
-
-Login issues
-
-Payments
-
-Degree categories
-
-The goal is to convert raw data into actionable business insights using Excel.
-
-🛠 Tools Used
+**🛠 Tools & Techniques Used**
+---
 
 Microsoft Excel
 
-Formulas (LEFT, RIGHT, FIND, MID)
+Excel Formulas (LEFT, RIGHT, FIND, MID, IF, TRIM, VLOOKUP)
 
 Pivot Tables
 
-Charts
+Data Cleaning & Transformation
 
-📁 Project Structure
+Charts & Visualizations
+
+**📁 Project Structure**
+---
 data/        → Raw dataset  
-analysis/    → Cleaned Excel file with pivots  
-visuals/     → Charts & graphs  
-insights.md  → Business findings  
+analysis/    → Cleaned Excel file with formulas & pivot tables  
+visuals/     → Charts and visual outputs  
+insights.md  → Key business findings and recommendations  
 
-✨ Key Tasks Performed
+**✨ Key Tasks Performed**
+---
 
-Extracted First & Last names using Excel formulas
+Extracted First and Last Names using Excel text formulas
 
-Cleaned missing values
+Cleaned and standardized raw data for accurate analysis
 
-Created pivot tables by region
+Merged datasets using VLOOKUP based on User ID
 
-Calculated average streaks & payments
+Applied conditional logic for payments and salutations
 
-Visualized trends
+Created pivot tables to analyze regional trends
 
-Answered business questions
+Calculated average streaks, total payments, and user distributions
 
-📈 Sample Questions Solved
+Designed charts to visualize insights clearly
 
-Which region has highest streak count?
+Converted analytical results into business recommendations
 
-Which region has lowest total points?
+**📈 Business Questions Addressed**
+---
 
-Login issue distribution
+Which region has the highest average streak count?
 
-Total payment collected
+Which region has the lowest total points?
 
-Lowest paying degree category
+Which regions report the most login issues?
 
-🧑‍💻 Author
+What is the total payment collected?
+
+Which degree category contributes the lowest payments?
+
+**🎯 Key Outcomes**
+---
+
+Identified high-revenue regions and engagement trends
+
+Highlighted regions with frequent login issues
+
+Analyzed payment patterns across degree categories
+
+Provided actionable recommendations for improving user experience and revenue
+
+👨‍💻 Author
 
 Deepanshu Gond
 Aspiring Data Analyst
